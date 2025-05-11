@@ -1,9 +1,8 @@
 ## Hi there 👋, # 👋 I'm Elionai Santos
 
-💼 Electrical Engineer with a passion for renewable energy, IoT, and automation  
-🚀 Highlight projects: [Solar Manager IoT](https://github.com/ElionaiSantos/gestor-solar)  
+💼 Electrical Engineer with a passion for renewable energy, IoT, and automation   
 📚 Currently learning: Python, Node-RED, Machine Learning  
-📫 Contact: elionai@email.com  
+📫 Contact: www.linkedin.com/in/elionai-dos-santos
 
 <!--
 **ElionaiSantos/ElionaiSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
