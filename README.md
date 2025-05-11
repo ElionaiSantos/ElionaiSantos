@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, # 👋 Olá, sou o Elionai Santos
+
+💼 Engenheiro Eletrotécnico com interesse em energia renovável, IoT e automação  
+📚 A aprender: Python, Node-RED, Machine Learning  
+📫 Contacto: www.linkedin.com/in/elionai-dos-santos 
 
 <!--
 **ElionaiSantos/ElionaiSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
