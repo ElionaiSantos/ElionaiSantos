@@ -1,4 +1,4 @@
-## Hi there 👋, # 👋 Olá, sou o Elionai Santos
+## Hi there 👋, # 👋 I'm Elionai Santos
 
 💼 Engenheiro Eletrotécnico com interesse em energia renovável, IoT e automação  
 📚 A aprender: Python, Node-RED, Machine Learning  
